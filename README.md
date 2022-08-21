@@ -11,5 +11,5 @@
   For the application, the user needs to have Node.js installed on their system. 
   Walkthrough Video: https://drive.google.com/file/d/1IDiDRNFBTjbH6Kh6we3b0YIWV52HEgkJ/view?usp=sharing
   ## Questions
-  For any questions, contact me at my [GitHub](https://github.com/gg).
+  For any questions, contact me at my [GitHub](https://github.com/lukaeric14).
   
